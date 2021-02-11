@@ -1,0 +1,17 @@
+#Container {
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(235, 229, 217);
+    padding: 15px;
+    flex-direction: column;
+    height: 95vh;
+    
+    
+}
+
+.btn {
+    background-color: lightpink;
+    padding: 5px 5px;
+    border-radius: 10%;
+}
